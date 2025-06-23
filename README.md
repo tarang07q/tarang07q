@@ -1,5 +1,27 @@
-# 💫 About Me:
-## 🚀 I’m currently working on  <br>🎥 CastBolt – a video sharing platform with recording, upload & user feed (Next.js + Appwrite)  <br>💸 FinTrack+ – a personal finance tracker with smart categorization & insights (Next.js + MongoDB)  <br>🌿 Sustainable Investment Portfolio – an ML-based ESG risk analysis and prediction system  <br>🛍️ Luxify – an Amazon-style e-commerce app with admin dashboard and secure auth (MERN stack)  <br><br>## 🤝 I’m looking to collaborate on  <br>💡 Projects using AI/ML, full-stack apps, or solving real-world finance & productivity problems  <br><br>## 🙋‍♂️ I’m looking for help with  <br>☕ Java SE 11 patterns, interview prep, and backend scalability  <br>🐳 DevOps tools – Docker, CI/CD, GitHub Actions automation  <br><br>## 🌱 I’m currently learning  <br>📘 Java 11 for interviews and certification  <br>🧠 ML techniques like classification, clustering, SVM, and K-Means  <br>🧰 Clean backend structure using Express, MongoDB, and Node.js  <br>System Design also drives me<br><br>## 💬 Ask me about  <br>🧑‍💻 Full-stack JavaScript (MERN, Next.js), Spring Boot, Firebase, and ML integrations  <br>📁 Structuring large projects, clean GitHub profiles, and automated workflows  <br><br>## ⚡ Fun fact  <br>📊 I blend finance and machine learning to turn data into insight-rich user experiences!<br>
+
+## 🚀 Current Focus  
+Working at the intersection of **Full-Stack Development**, **Machine Learning**, and **Cloud Engineering**. Exploring scalable architectures using **Next.js, MERN, Spring Boot**, and **Appwrite**, with growing expertise in **DevOps practices**.
+
+## 🤝 Open to Collaborations  
+Looking to collaborate on impactful **AI/ML**, **FinTech**, and **Productivity** tools that solve real-world problems and scale across users.
+
+## 🙋‍♂️ Seeking Guidance In  
+- Advanced **Java SE 11** patterns and **backend scalability**  
+- **Docker**, CI/CD pipelines, and GitHub Actions for automation  
+
+## 🌱 Actively Learning  
+- **System Design** and backend architecture best practices  
+- ML techniques like **classification**, **clustering**, **SVM**, and **K-Means**  
+- Clean API structuring with **Express** and **MongoDB**  
+
+## 💬 Areas of Expertise  
+- **Full-Stack JavaScript** (MERN, Next.js), Spring Boot, and Firebase  
+- **ML integrations**, GitHub hygiene, project structuring, and workflow automation  
+
+## ⚡ Fun Insight  
+I specialize in merging **finance** with **machine learning** to craft data-driven, intuitive user experiences.
+
+ML integrations, GitHub hygiene, project structuring, and workflow automation
 
 
 ## 🌐 Socials:
