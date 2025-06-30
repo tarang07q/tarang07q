@@ -1,13 +1,6 @@
 
-## 🚀 Current Focus  
-Working at the intersection of **Full-Stack Development**, **Machine Learning**, and **Cloud Engineering**. Exploring scalable architectures using **Next.js, MERN, Spring Boot**, and **Appwrite**, with growing expertise in **DevOps practices**.
-
 ## 🤝 Open to Collaborations  
 Looking to collaborate on impactful **AI/ML**, **FinTech**, and **Productivity** tools that solve real-world problems and scale across users.
-
-## 🙋‍♂️ Seeking Guidance In  
-- Advanced **Java SE 11** patterns and **backend scalability**  
-- **Docker**, CI/CD pipelines, and GitHub Actions for automation  
 
 ## 🌱 Actively Learning  
 - **System Design** and backend architecture best practices  
